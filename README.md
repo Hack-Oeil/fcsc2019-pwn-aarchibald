@@ -12,7 +12,7 @@ Origine : [Aarchibald](https://hackropole.fr/fr/challenges/pwn/fcsc2019-pwn-aarc
 
 
 ## Connectez vous en WEBSSH
-> http://loaclhost
+> http://localhost
 
 #### tentez 
 > nc aarchibald.cyrhades.com:4000
