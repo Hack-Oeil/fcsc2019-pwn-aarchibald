@@ -15,7 +15,7 @@ Origine : [Aarchibald](https://hackropole.fr/fr/challenges/pwn/fcsc2019-pwn-aarc
 > http://localhost
 
 #### tentez 
-> nc aarchibald.cyrhades.com:4000
+> nc aarchibald.cyrhades.fr:4000
 
 
 -----------

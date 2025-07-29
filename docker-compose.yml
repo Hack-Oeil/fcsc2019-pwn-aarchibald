@@ -1,10 +1,10 @@
 version: '3.9'
 services:
-  ssh.cyrhades.com:
+  ssh.cyrhades.fr:
     build: ./.docker/ssh
     labels:
       ho.ctf.cyrhades: "1"
-  webssh.cyrhades.com:
+  webssh.cyrhades.fr:
     build: ./.docker/webssh
     ports:
     - ${PORT}:8888
@@ -12,7 +12,7 @@ services:
       - HOOS_CTF_USERNAME=${HOOS_CTF_USERNAME:-}
     labels:
       ho.ctf.cyrhades: "1"
-  aarchibald.cyrhades.com:
+  aarchibald.cyrhades.fr:
     image: anssi/fcsc2019-pwn-aarchibald:latest
     ports:
       - "4000:4000"
