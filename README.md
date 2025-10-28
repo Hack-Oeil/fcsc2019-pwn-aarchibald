@@ -6,7 +6,7 @@ Exploitez le binaire fourni pour extraire le flag du service distant.
 
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Aarchibald](https://hackropole.fr/fr/challenges/pwn/fcsc2019-pwn-aarchibald/)
 
